@@ -7,3 +7,19 @@ Use the random module to generate a random number.
 Implement a loop to allow the user to make multiple guesses.
 Use if statements to provide hints to the user.
 Handle non-numeric inputs gracefully and prompt the user to enter a valid number.
+
+
+## Usage/Examples
+
+```javascript
+I'm thinking of a number between 1 and 20.
+Take a guess: abc
+Please enter a valid number.
+Take a guess: 21
+Your guess is too high.
+Take a guess: 10
+Your guess is too low.
+Take a guess: 15
+Good job! You guessed my number 15!
+
+```
