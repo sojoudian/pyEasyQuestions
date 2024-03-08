@@ -16,3 +16,4 @@ while True:
     except ValueError:
         # Handle non-numeric input
         print("Error: Invalid input. Please enter a number between 1 and 10.")
+
