@@ -7,7 +7,7 @@ Use a loop to iterate over a list of log messages.
 Implement if statements to categorize errors.
 Handle the case where the list is empty.
 
-# Usage/Examples
+# Example output
 
 ```javascript
 Critical Errors: 2
