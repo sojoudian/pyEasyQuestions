@@ -7,4 +7,11 @@ Use exception handling to catch errors related to file opening and invalid file 
 Use a loop to allow the user multiple attempts to enter a valid file name.
 Use if statements to check the validity of the input.
 
+# Expected Output:
 
+```javascript
+Enter the name of the file to open: nonexistingfile.txt
+File not found. Please try again.
+Enter the name of the file to open: existingfile.txt
+[Contents of existingfile.txt]
+...
